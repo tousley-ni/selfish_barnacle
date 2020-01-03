@@ -3,10 +3,6 @@
 # To update, run:
 #
 #    pip-compile requirements_dev.txt
-#
---index-url http://ni-pypi.ni.corp.natinst.com/simple/
---trusted-host ni-pypi.ni.corp.natinst.com
---trusted-host pypi.org
 
 alabaster==0.7.12         # via sphinx
 argh==0.26.2              # via watchdog
@@ -56,7 +52,7 @@ tqdm==4.41.1              # via twine
 twine==1.14.0
 urllib3==1.25.7           # via requests
 virtualenv==16.7.9        # via tox
-watchdog==0.9.0
+watchdog
 wcwidth==0.1.8            # via pytest
 webencodings==0.5.1       # via bleach
 wheel==0.33.6
