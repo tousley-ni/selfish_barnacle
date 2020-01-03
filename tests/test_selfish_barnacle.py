@@ -26,3 +26,11 @@ def test_content(response):
 def test_simple_true(response):
     """trivial test"""
     assert(True)
+    
+def test_another_simple_true2(response):
+    """another trivial test"""
+    assert(True)
+
+def test_some_barnacle_function(response):
+    retval = selfish_barnacle.some_barnacle_function(1)
+    assert(2 == retval)
