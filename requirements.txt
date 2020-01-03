@@ -25,7 +25,7 @@ importlib-metadata==0.23  # via pluggy, pytest, tox
 jinja2==2.10.3            # via sphinx
 markupsafe==1.1.1         # via jinja2
 mccabe==0.6.1             # via flake8
-more-itertools==8.0.2     # via pytest, zipp
+more-itertools            # via pytest, zipp
 packaging==19.2           # via pytest, sphinx, tox
 pathtools==0.1.2          # via watchdog
 pkginfo==1.5.0.1          # via twine
