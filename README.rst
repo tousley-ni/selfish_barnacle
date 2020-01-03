@@ -3,11 +3,11 @@ Selfish Barnacle
 ================
 
 
+.. image:: https://github.com/tousley-ni/selfish_barnacle/workflows/Python%20package/badge.svg
+        :target: https://github.com/tousley-ni/selfish_barnacle/actions
+
 .. image:: https://img.shields.io/pypi/v/selfish_barnacle.svg
         :target: https://pypi.python.org/pypi/selfish_barnacle
-
-.. image:: https://img.shields.io/travis/tousley-ni/selfish_barnacle.svg
-        :target: https://travis-ci.org/tousley-ni/selfish_barnacle
 
 .. image:: https://readthedocs.org/projects/selfish-barnacle/badge/?version=latest
         :target: https://selfish-barnacle.readthedocs.io/en/latest/?badge=latest
